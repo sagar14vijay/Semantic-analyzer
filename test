@@ -1,0 +1,38 @@
+
+		int main()
+		{
+		int b =  2 * 3 - 10 ;
+		//int x =  y + (z*w) / 2+2*m-2;
+		//int b =  (x+m)*(z*w)*64;
+		char v = '_x';
+		char c = '_q';
+
+		if( 10 + 15 < 12 * 2 -10 /2 ) {
+		   int a = 21474836;
+			a=150;
+		    
+		if( a < 890 ){
+		  int b = 56;
+		}
+
+		else{
+		   int  j = 10;
+		}
+		}
+		else{
+
+		int alireza = 12300000000000000 ;
+		//alireza = alireza + "alire";
+
+		}
+
+		char w = '_cxx';
+		  
+		while(a < 10){
+		int a  = 100;
+		if(a < 100){
+		int b = 112;
+		}
+		else {int a = 10000;}
+		}
+		}
